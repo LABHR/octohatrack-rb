@@ -2,7 +2,7 @@ language: ruby
 rvm:
   - 2.1.0
 install: 
-  - 'rake build --trace'
-  - 'rake install --trace'
+  - 'rake build'
+  - 'gem install pkg/*'
 script: 
   - "octohat glasnt/octohat"
