@@ -1,0 +1,12 @@
+#!/usr/bin/env ruby
+
+require 'octohat'
+
+repo = ARGV[0]
+
+puts "Collecting information for #{repo} (this may take a while)"
+grok = Octohat.grok repo
+
+puts "Code contributions: #{grok[:code].length}"
+puts "Non-code contributions: #{grok[:non_code].length}"
+puts grok[:non_code]
