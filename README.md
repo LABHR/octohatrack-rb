@@ -1,8 +1,7 @@
 Octohat
 =======
 
-[![Gem Version](https://badge.fury.io/rb/octohat.svg)](http://badge.fury.io/rb/octohat)
-
+[![Gem Version](https://badge.fury.io/rb/octohat.svg)](http://badge.fury.io/rb/octohat) [![Build Status](https://travis-ci.org/glasnt/octohat-rb.svg)](https://travis-ci.org/glasnt/octohat-rb)
 
 It's easy to see your direct [code contributions](https://help.github.com/articles/why-are-my-contributions-not-showing-up-on-my-profile/) on GitHub, but what about everything else?
 
