@@ -14,6 +14,12 @@ Interactions include:
 "Let's All Build a Hat Rack" ([\#LABHR](https://twitter.com/search?q=%23LABHR&src=typd)) is an original concept by [Leslie
 Hawthorn](http://hawthornlandings.org/2015/02/13/a-place-to-hang-your-hat/)
 
+WARNING
+-------
+
+[octohat in Python](https://github.com/glasnt/octohat) and [octohat in Ruby](https://github.com/glasnt/octohat-rb) both create callable `octohat` entites. Strange things may occur if you try to install both on your system.
+
+
 Installation
 ------------
 
