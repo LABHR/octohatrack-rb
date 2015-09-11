@@ -1,6 +1,9 @@
 Octohat
 =======
 
+[![Gem Version](https://badge.fury.io/rb/octohat.svg)](http://badge.fury.io/rb/octohat)
+
+
 It's easy to see your direct [code contributions](https://help.github.com/articles/why-are-my-contributions-not-showing-up-on-my-profile/) on GitHub, but what about everything else?
 
 **Octohat** takes a github repo name, and returns a list of every github user that has interacted with a project, but has not committed code.
