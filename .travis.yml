@@ -3,6 +3,6 @@ rvm:
   - 2.1.0
 install: 
   - 'rake build --trace'
-  - 'gem install /home/travis/build/glasnt/octohat-rb/pkg/octohat-0.0.1.gem'
+  - 'rake install --trace'
 script: 
   - "octohat glasnt/octohat"
