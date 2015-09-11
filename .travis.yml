@@ -1,0 +1,8 @@
+language: ruby
+rvm:
+  - 2.1.0
+install: 
+  - 'rake build'
+  - 'gem install pkg/*'
+script: 
+  - "octohat glasnt/octohat"
