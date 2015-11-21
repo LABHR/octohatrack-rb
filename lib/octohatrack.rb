@@ -1,7 +1,7 @@
-require "octohat/version"
+require "octohatrack/version"
 require "octokit"
 
-module Octohat
+module Octohatrack
   def self.grok(repo)
 
     access_token = ENV["GITHUB_TOKEN"]
