@@ -5,4 +5,4 @@ install:
   - 'rake build'
   - 'gem install pkg/*'
 script: 
-  - "octohat glasnt/octohat"
+  - "octohatrack glasnt/octohatrack"
