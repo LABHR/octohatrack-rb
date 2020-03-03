@@ -19,7 +19,7 @@ Gem::Specification.new do |spec|
   spec.executables  << "octohatrack"
 
   spec.add_development_dependency "bundler", "~> 1.9"
-  spec.add_development_dependency "rake", "~> 10.0"
+  spec.add_development_dependency "rake", "~> 12.3.3"
 
   spec.add_runtime_dependency "octokit", "~> 4.0"
 end
