@@ -1,7 +1,13 @@
 octohatrack
 =======
 
-[![Gem Version](https://badge.fury.io/rb/octohatrack.svg)](http://badge.fury.io/rb/octohatrack) [![Build Status](https://travis-ci.org/LABHR/octohatrack-rb.svg)](https://travis-ci.org/LABHR/octohatrack-rb)
+[![Gem Version](https://badge.fury.io/rb/octohatrack.svg)](http://badge.fury.io/rb/octohatrack) [![Build Status](https://travis-ci.org/LABHR/octohatrack-rb.svg)](https://travis-ci.org/LABHR/octohatrack-rb) [![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)
+
+See [octohatrack](https://github.com/labhr/octohatrack) for a maintained version of this tool. 
+
+This was designed as a proof of concept for a ruby version of the same command line tool. The language of implementation is of no consequence to the end user.
+
+---
 
 It's easy to see your direct [code contributions](https://help.github.com/articles/why-are-my-contributions-not-showing-up-on-my-profile/) on GitHub, but what about everything else?
 
